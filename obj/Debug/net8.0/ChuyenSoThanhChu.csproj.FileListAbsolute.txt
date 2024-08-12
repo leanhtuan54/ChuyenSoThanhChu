@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\bin\Debug\net8.0\ChuyenSoThanhChu.exe
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\bin\Debug\net8.0\ChuyenSoThanhChu.deps.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\bin\Debug\net8.0\ChuyenSoThanhChu.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\bin\Debug\net8.0\ChuyenSoThanhChu.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\bin\Debug\net8.0\ChuyenSoThanhChu.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\refint\ChuyenSoThanhChu.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ChuyenSoThanhChu.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\ChuyenSoThanhChu\obj\Debug\net8.0\ref\ChuyenSoThanhChu.dll
